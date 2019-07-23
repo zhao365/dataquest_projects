@@ -15,3 +15,7 @@
    - Machine Learning Fundamentals
 
      Guided Project: [Predicting Car Prices](https://github.com/zhao365/dataquest_projects/blob/master/Predicting%20Car%20Prices/Predicting%20Car%20Price.ipynb)
+     
+   - Linear Regression For Machine Learning
+    
+     Guided Project: [Predicting House Sales Prices](https://github.com/zhao365/dataquest_projects/blob/master/Predicting%20House%20Sale%20Prices/Predicting%20House%20Sale%20Prices.ipynb)
