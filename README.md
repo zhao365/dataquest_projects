@@ -19,3 +19,7 @@
    - Linear Regression For Machine Learning
     
      Guided Project: [Predicting House Sales Prices](https://github.com/zhao365/dataquest_projects/blob/master/Predicting%20House%20Sale%20Prices/Predicting%20House%20Sale%20Prices.ipynb)
+     
+   - Machine Learning Intermediate
+   
+     Guided Project: [Predicting the stock market](https://github.com/zhao365/dataquest_projects/blob/master/Predicting%20the%20stock%20market/predict.py)
