@@ -22,4 +22,9 @@
      
    - Machine Learning Intermediate
    
-     Guided Project: [Predicting the stock market](https://github.com/zhao365/dataquest_projects/blob/master/Predicting%20the%20stock%20market/predict.py)
+     Guided Project: [Predicting the Stock Market](https://github.com/zhao365/dataquest_projects/blob/master/Predicting%20the%20stock%20market/predict.py)
+
+
+   - Decision Trees
+   
+     Guided Project: [Predicting Bike Rentals](https://github.com/zhao365/dataquest_projects/blob/master/Predicting%20Bike%20Rentals/Predicting%20Bike%20Rentals.ipynb)
