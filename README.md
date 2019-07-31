@@ -11,7 +11,7 @@
     - Statistics Intermediate Averages and Variability
 
       Guided Project: [Finding the Best Markets to Advertise In](https://github.com/zhao365/dataquest_projects/blob/master/Finding%20the%20Best%20Markets%20to%20Advertise%20In/Finding%20the%20Best%20Markets%20to%20Advertise%20In.ipynb)
-6. Machine Learning
+6. Machine Learning Introductions
    - Machine Learning Fundamentals
 
      Guided Project: [Predicting Car Prices](https://github.com/zhao365/dataquest_projects/blob/master/Predicting%20Car%20Prices/Predicting%20Car%20Price.ipynb)
@@ -28,3 +28,8 @@
    - Decision Trees
    
      Guided Project: [Predicting Bike Rentals](https://github.com/zhao365/dataquest_projects/blob/master/Predicting%20Bike%20Rentals/Predicting%20Bike%20Rentals.ipynb)
+     
+7. Machine Learning Intermediate   
+   - Deep Learning Fundamentals
+   
+     Guided Project: [Building A Handwritten Digits Classifier](https://github.com/zhao365/dataquest_projects/blob/master/Building%20A%20Handwritten%20Digits%20Classifier/Building%20A%20Handwritten%20Digits%20Classifier.ipynb)
