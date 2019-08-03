@@ -33,3 +33,7 @@
    - Deep Learning Fundamentals
    
      Guided Project: [Building A Handwritten Digits Classifier](https://github.com/zhao365/dataquest_projects/blob/master/Building%20A%20Handwritten%20Digits%20Classifier/Building%20A%20Handwritten%20Digits%20Classifier.ipynb)
+     
+   - Kaggle Fundamentals
+   
+     Guided Project: [Creating a Kaggle Workflow](https://github.com/zhao365/dataquest_projects/blob/master/Creating%20a%20Kaggle%20Workflow/Creating%20a%20Kaggle%20Workflow.ipynb)
