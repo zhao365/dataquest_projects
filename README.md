@@ -11,6 +11,10 @@
     - Statistics Intermediate Averages and Variability
 
       Guided Project: [Finding the Best Markets to Advertise In](https://github.com/zhao365/dataquest_projects/blob/master/Finding%20the%20Best%20Markets%20to%20Advertise%20In/Finding%20the%20Best%20Markets%20to%20Advertise%20In.ipynb)
+      
+    - Probability: Fundamentals
+    
+      Guided Project: [Mobile App for Lottery Addiction](https://github.com/zhao365/dataquest_projects/blob/master/Mobile%20App%20for%20Lottery%20Addiction/Mobile%20App%20for%20Lottery%20Addiction.ipynb)
 6. Machine Learning Introductions
    - Machine Learning Fundamentals
 
@@ -37,3 +41,9 @@
    - Kaggle Fundamentals
    
      Guided Project: [Creating a Kaggle Workflow](https://github.com/zhao365/dataquest_projects/blob/master/Creating%20a%20Kaggle%20Workflow/Creating%20a%20Kaggle%20Workflow.ipynb)
+     
+8. Advanced Topics in Data Science
+
+   - Data Structure and Algorithms
+   
+     Guided Project: [Investigating Airplane Accidents](https://github.com/zhao365/dataquest_projects/blob/master/Investigating%20Airplane%20Accidents/Investigating%20Airplane%20Accidents.ipynb)
